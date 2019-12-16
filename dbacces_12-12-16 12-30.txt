@@ -1,0 +1,15 @@
+httpschuldb1.its-stuttgart.dephpmyadmin
+
+httpschuldb1.its-stuttgart.dephppgadmin
+
+schuldb1  10.194.9.130
+
+Kennwörter
+
+Mysql root  iec9bei0weex7baShieg
+
+Postgres postgres  Vahpeiwoqu1Haex4cem6
+
+User:
+U:Podcaster
+P:podcaster
